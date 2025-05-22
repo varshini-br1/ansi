@@ -41,7 +41,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>com.example.myapp.App</mainClass> <!-- ✅ Update this if your main class is different -->
+              <mainClass>com.example.App</mainClass> <!-- ✅ Update this if your main class is different -->
             </manifest>
           </archive>
         </configuration>
